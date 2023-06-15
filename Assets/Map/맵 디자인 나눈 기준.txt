@@ -1,0 +1,8 @@
+Finish_MapDesign
+ㄴ맵 디자인 일단 끝난거(피드백에 따라서 변경될 수도 있음)
+Detailling_MapDesign
+ㄴ디테일 추가중인거
+NotTouch_MapDesign
+ㄴ현재 손은 안댄 부분
+구상도
+ㄴ갈피도 못잡은거

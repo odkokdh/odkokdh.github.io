@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5028e94befc41624cb032a96daa1ed45, type: 3}
+  m_Name: DoorEft
+  m_EditorClassIdentifier: 
+  activeDoor: 1
+  doorAnim: {fileID: 880792314544621336, guid: e06b53f1b87ae3447b7653e59806158b, type: 3}
+  data: {fileID: 7526665046997239444, guid: 7b367106ae3417f43802371a24b1cf23, type: 3}
