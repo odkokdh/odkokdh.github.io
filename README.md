@@ -53,7 +53,7 @@
 
 # **대표 이미지**
 
-<img src="./img/Mainimage.png">
+<img src="./img/Mainimege.png">
 
 <br><br>
 
